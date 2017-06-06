@@ -1,0 +1,11 @@
+c:\users\arnas\documents\visual studio 2015\Projects\4PraktinisDarbas_Sandelys\4PraktinisDarbas_Sandelys\bin\Debug\4PraktinisDarbas_Sandelys.exe.config
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\4PraktinisDarbas_Sandelys\4PraktinisDarbas_Sandelys\bin\Debug\SandelysDatabase.mdf
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\4PraktinisDarbas_Sandelys\4PraktinisDarbas_Sandelys\bin\Debug\SandelysDatabase_log.ldf
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\4PraktinisDarbas_Sandelys\4PraktinisDarbas_Sandelys\bin\Debug\4PraktinisDarbas_Sandelys.exe
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\4PraktinisDarbas_Sandelys\4PraktinisDarbas_Sandelys\bin\Debug\4PraktinisDarbas_Sandelys.pdb
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\4PraktinisDarbas_Sandelys\4PraktinisDarbas_Sandelys\obj\Debug\4PraktinisDarbas_Sandelys.csprojResolveAssemblyReference.cache
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\4PraktinisDarbas_Sandelys\4PraktinisDarbas_Sandelys\obj\Debug\_4PraktinisDarbas_Sandelys.Form1.resources
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\4PraktinisDarbas_Sandelys\4PraktinisDarbas_Sandelys\obj\Debug\_4PraktinisDarbas_Sandelys.Properties.Resources.resources
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\4PraktinisDarbas_Sandelys\4PraktinisDarbas_Sandelys\obj\Debug\4PraktinisDarbas_Sandelys.csproj.GenerateResource.Cache
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\4PraktinisDarbas_Sandelys\4PraktinisDarbas_Sandelys\obj\Debug\4PraktinisDarbas_Sandelys.exe
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\4PraktinisDarbas_Sandelys\4PraktinisDarbas_Sandelys\obj\Debug\4PraktinisDarbas_Sandelys.pdb
